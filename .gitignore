@@ -1,2 +1,6 @@
 node_modules/
+<<<<<<< HEAD
 client/
+=======
+/client
+>>>>>>> 0652a91913378d04288da2c1c2f1325b9c72297b
